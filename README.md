@@ -44,7 +44,7 @@ Implements Bernstein polynomial-based Graph Neural Network, using Bernstein poly
 Implements Chebyshev polynomial-based Graph Neural Network, approximating spectral graph convolutions with Chebyshev polynomials for more efficient graph signal processing.
 
 ### dataset.py
-Dataset loading and processing module, supporting various dataset formats including Yelp, Amazon, tfinance, and tsocial standard datasets.
+Dataset loading and processing module, supporting various dataset formats.
 
 ## Dependencies
 
